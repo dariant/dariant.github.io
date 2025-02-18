@@ -13,7 +13,11 @@ profile:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
 
+scholar:
+  sort_by: year
+  order: ascending
 selected_papers: true # includes a list of papers marked as "selected={true}"
+
 social: false # includes social icons at the bottom of the page
 
 latest_posts:
