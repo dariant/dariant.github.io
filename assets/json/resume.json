@@ -19,23 +19,23 @@
       "endDate": "2019"
     }
   ],
-  "experience": [
+  "work": [
     {
-      "studyType": "Young researcher",
-      "institution": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
+      "position": "Young researcher",
+      "name": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
       "startDate": "2022",
       "endDate": "Present"
     },
     {
-      "studyType": "Teaching assistant",
-      "institution": "University of Ljubljana, Faculty of Computer and Information Science",
+      "position": "Teaching assistant",
+      "name": "University of Ljubljana, Faculty of Computer and Information Science",
       "startDate": "2022",
       "endDate": "2023",
       "courses": ["Operating systems"]
     },
     {
-      "studyType": "Student researcher",
-      "institution": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
+      "position": "Student researcher",
+      "name": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
       "startDate": "2021",
       "endDate": "2022"
     }
