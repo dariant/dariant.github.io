@@ -3,18 +3,17 @@
     {
       "studyType": "PhD",
       "institution": "University of Ljubljana, Faculty of Computer and Information Science",
-      "startDate": "2022",
-      "endDate": "Present"
+      "startDate": "2022"
     },
     {
-      "studyType": "Master's degree",
-      "institution": "University of Ljubljana, Faculty of Computer and Information Science",
+      "studyType": "Master's degree in Computer and Information Science",
+      "institution": "University of Ljubljana",
       "startDate": "2019",
       "endDate": "2022"
       },
     {
-      "studyType": "Bachelor's degree",
-      "institution": "University of Ljubljana, Faculty of Computer and Information Science",
+      "studyType": "Bachelor's degree in Computer and Information Science",
+      "institution": "University of Ljubljana",
       "startDate": "2016",
       "endDate": "2019"
     }
@@ -22,20 +21,19 @@
   "work": [
     {
       "position": "Young researcher",
-      "name": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
-      "startDate": "2022",
-      "endDate": "Present"
+      "name": "Laboratory for Computer Vision, University of Ljubljana",
+      "startDate": "2022"
     },
     {
       "position": "Teaching assistant",
-      "name": "University of Ljubljana, Faculty of Computer and Information Science",
+      "name": "Faculty of Computer and Information Science, University of Ljubljana",
       "startDate": "2022",
       "endDate": "2023",
-      "courses": ["Operating systems"]
+      "highlights": ["Operating systems"]
     },
     {
       "position": "Student researcher",
-      "name": "Laboratory for Computer Vision, University of Ljubljana, Faculty of Computer and Information Science",
+      "name": "Laboratory for Computer Vision, University of Ljubljana",
       "startDate": "2021",
       "endDate": "2022"
     }
