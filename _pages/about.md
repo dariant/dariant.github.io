@@ -25,4 +25,4 @@ latest_posts:
 
 I'm a PhD student at the [University of Ljubljana](https://www.uni-lj.si/en/university), [Faculty of Computer and Information Science](https://fri.uni-lj.si/en), advised by Prof. dr. [Peter Peer](https://fri.uni-lj.si/en/about-faculty/employees/peter-peer) and Prof. dr. [Vitomir Štruc](https://lmi.fe.uni-lj.si/en/vitomir-struc/). My research focuses on the generation of synthetic biometric data suitable for training deep learning models in a privacy-preserving manner. 
 
-My current research interests include generative models and deep learning techniques in the fields of image-based biometrics and computer vision. In the past, I’ve also collaborated on research projects outside my PhD topic, including 3D reconstruction of superquadrics from images as well as music pattern analysis music pattern analysis.
+My current research interests include generative models and deep learning techniques in the fields of image-based biometrics and computer vision. In the past, I’ve also collaborated on research projects outside my PhD topic, including 3D reconstruction of superquadrics and music pattern analysis.
