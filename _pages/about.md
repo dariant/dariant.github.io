@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student, University of Ljubljana, Faculty of Computer and Information Science
+subtitle: PhD student & Young researcher
 
 profile:
   align: right
