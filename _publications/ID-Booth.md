@@ -54,6 +54,10 @@ p {
   margin-top: 1rem;
   margin-bottom: 1.5rem; /* adjust spacing as needed */
 }
+.p_below_image {
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+}
 h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem; /* adjust spacing as needed */
@@ -65,7 +69,7 @@ h3 {
 </style>
 
 
-
+<div class="text-center">
 <p>
   {% for author in page.authors %}
     {% if author.url %}
@@ -85,9 +89,9 @@ h3 {
 {% endfor %}
 </p>
 
-### Poster at [FG 2025](https://fg2025.ieee-biometrics.org/)
+<h3>Poster presentation at <a href="https://fg2025.ieee-biometrics.org/">FG 2025</a></h3>
 
-<div class="d-flex flex-wrap gap-2 mt-3 mb-3">
+<div class="d-flex flex-wrap gap-2 mt-3 mb-3 justify-content-center">
   <a href="https://arxiv.org/abs/2504.07392" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fas fa-file-alt"></i> arXiv
   </a>
@@ -102,18 +106,19 @@ h3 {
   </a>
 
 </div>
+</div>
 
 
-<p>
+<div class="w-75 mx-auto">
+    {% include figure.liquid loading="eager" path="assets/img/publications/ID-Booth/ID-Booth_teaser.jpg" title="ID-Booth teaser" class="img-fluid rounded" %}
+</div>
+
+<p class="p_below_image">
 We introduce the ID-Booth framework, which: <br>
  🔥 generates in-the-wild images of consenting identities captured in a constrained environment <br>
  🔥 uses a triplet identity loss to fine-tune Stable Diffusion for identity-consistent yet diverse image generation <br>
  🔥 can augment small-scale datasets to improve their suitability for training face recognition models <br>
 </p>
-
-<div class="w-75 mx-auto image">
-    {% include figure.liquid loading="eager" path="assets/img/publications/ID-Booth/ID-Booth_teaser.jpg" title="ID-Booth teaser" class="img-fluid rounded" %}
-</div>
 
 ## Abstract
 
