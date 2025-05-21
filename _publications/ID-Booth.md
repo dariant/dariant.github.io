@@ -101,7 +101,7 @@ h3 {
   <a href="https://github.com/dariant/ID-Booth" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="https://huggingface.co/spaces/user/demo" class="btn btn-dark rounded-pill px-3 py-2">
+  <a href="https://huggingface.co/spaces/DarianT/ID-Booth" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fas fa-robot"></i> Demo
   </a>
 
