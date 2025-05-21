@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ID-Booth: Identity-consistent Face Generation with Diffusion Models"
+description: ""
 importance: 1
 category: work
 related_publications: false
@@ -57,8 +58,12 @@ h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem; /* adjust spacing as needed */
 }
-
+h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 1rem; /* adjust spacing as needed */
+}
 </style>
+
 
 
 <p>
@@ -80,9 +85,14 @@ h2 {
 {% endfor %}
 </p>
 
+### Poster at [FG 2025](https://fg2025.ieee-biometrics.org/)
+
 <div class="d-flex flex-wrap gap-2 mt-3 mb-3">
   <a href="https://arxiv.org/abs/2504.07392" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fas fa-file-alt"></i> arXiv
+  </a>
+  <a href="/assets/pdf/ID-Booth_Poster.pdf" class="btn btn-dark rounded-pill px-3 py-2" style="text-transform: none; font-size: 1.00rem;">
+   <i class="fas fa-chalkboard-teacher me-2"></i> Poster
   </a>
   <a href="https://github.com/dariant/ID-Booth" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fab fa-github"></i> GitHub
@@ -90,6 +100,7 @@ h2 {
   <a href="https://huggingface.co/spaces/user/demo" class="btn btn-dark rounded-pill px-3 py-2">
     <i class="fas fa-robot"></i> Demo
   </a>
+
 </div>
 
 
